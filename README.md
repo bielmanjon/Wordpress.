@@ -27,6 +27,20 @@ Empeze con una base de pequeña informacion, como cuando se orgino la marca, el 
 ### Algo mas avanzado...
 
 Cuando logre estar algo mas avanzado a las semanas lo que hacia era informarme de los pluggins, uno de ella era un mapa configurado personalmente de forma que en la web salia un mapa con la ubicacion deseada, yo puse un concesionario de Audi del centro de Barcelona, con informacion necesaria justo debajo del mapa para que para el cliente se le haga mas senzillo de leer.
+
 ![imagen](https://github.com/user-attachments/assets/c439efaa-b5d8-439d-a61e-a6356e16cdbd)
 
 -  Como se puede obvservar es un titulo con el mapa abajo y posteriormente la infromacion.
+
+
+### Una vez casi finalizada...
+
+Cuando creia que lo tenia todo bien, empeze con los retoques, como pueden ser, ordenar cosas que habia movido sin saber donde colocarlas, poner fotos informativas u orientativas de lo que estaba hablando pàra lograr una atencion mayor del lector.
+
+![Captura desde 2025-02-06 14-09-58](https://github.com/user-attachments/assets/4701b25f-d15d-47f9-a9d9-c1369739c36d)
+
+Como se puede obvservar estba hablando de la gama RS y no me gustaria meter un rollo, de esta forma poniendo una imagen, hago que este la web mas limpia de una forma.
+
+### Por ultimo...
+
+Lo que hize fue poner un buscador de forma que si quieres ir a una zona de la web buscas y te mandara directamente a lo que deseas, y revise que estba todo en su correcto lugar y se la mostre a mis colegas para que opinaran y ver si sus opiniones me hacian mejorar la web y asi que como cree mi web.
